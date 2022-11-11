@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @charlottekies
-- 👀 I’m interested in music and emerging technology
-- 🌱 I’m currently learning Vue & JavaScript
+- 👀 I’m interested in music, learning new languages, and using what I've learned to contribute to seriously impactful, or useless but hilarious projects
+- 🌱 I’m currently learning Swift
 
 
 <!---
