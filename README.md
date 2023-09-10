@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @charlottekies
 - :orange_heart: I’m interested languages, mobile development, and using what I've learned to contribute to seriously impactful, or useless but hilarious projects
 - :school: I’m currently learning SwiftUI 
-- :hammer: I am building Drum-Roulette! A collaborative, web-based, musical instrument assignments project. The site is built using PostgreSQL, React.ts, and Next.ts, and is currently deployed to AWS, Vercel, and GitHub pages! [View our Site!](https://pickyourdrum.link) and [Read our project wiki](https://github.com/RubySpeeders/US-Navy-Project/wiki)
+- :hammer: I am building Drum-Roulette! A collaborative, web-based, musical instrument assignments application. The site is built using PostgreSQL, React.ts, and Next.ts, and is currently deployed to AWS, Vercel, and GitHub pages! [View our Site!](https://pickyourdrum.link) and [Read our project wiki](https://github.com/RubySpeeders/US-Navy-Project/wiki)
 
 
 <!---
