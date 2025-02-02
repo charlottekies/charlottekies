@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @charlottekies
-- :orange_heart: I’m interested languages, mobile development, and using what I've learned to contribute to seriously impactful, or useless but hilarious projects
-- :school: I’m currently learning SwiftUI 
-- :hammer: I am building [Drum Roulette!](https://github.com/RubySpeeders/US-Navy-Project)! A collaborative, web-based, musical instrument assignments application. The site is built using PostgreSQL, React.ts, and Next, and it is currently deployed to AWS, Vercel, and GitHub pages! [View our Site!](https://pickyourdrum.link) and [Read our project wiki](https://github.com/RubySpeeders/US-Navy-Project/wiki)
+- :orange_heart: I’m interested languages (spoken and programming), music, Java, React, and using what I've learned to contribute to seriously impactful, or useless but goofy projects
+- :school: I’m currently mastering React 
+- :hammer: I am building [A Web APIs Demo App!](https://github.com/charlottekies/web-apis-demo) A responsive, full stack application that makes use of REST, RPC, and GraphQL APIs. The site is built using PostgreSQL, React, Prisma, and Next.js, and it is currently deployed to AWS and Vercel! [View Live!](https://web-apis-demo.vercel.app/).
 
 
 <!---
