@@ -3,7 +3,7 @@
 - :school: I’m currently learning about Natural Language Processing!
 - :hammer: I am building [A Web APIs Demo App!](https://github.com/charlottekies/web-apis-demo) A responsive, full stack application that leverages REST, RPC, and GraphQL APIs. The site is built using PostgreSQL, React, Prisma, and Next.js, and it is [currently deployed to AWS and Vercel!](https://web-apis-demo.vercel.app/).
 - :abacus: I am currently building a [java-based educational project](https://github.com/charlottekies/algorithms) for bootcamp graduates that will provide structured practice implementing fundamental algorithm patterns.
-- :abacus: I am also developing a [Java algorithm utility library](https://github.com/charlottekies/algo-utils) that provide sorting and searching methods implemented with fundamental algorithm patterns.
+- :abacus: I am also developing a [Java algorithm utility library](https://github.com/charlottekies/algo-utils) that provides sorting and searching methods implemented with fundamental algorithm patterns.
 
 
 <!---
